@@ -1,1 +1,1 @@
-scoreboard objectives remove seek_stationaryscoreboard objectives add seek_stationary dummyscoreboard objectives remove seek_healthscoreboard objectives add seek_health health
+scoreboard objectives remove seek_stationaryscoreboard objectives add seek_stationary dummyscoreboard objectives remove seek_healthscoreboard objectives add seek_health healthscoreboard objectives remove seek_dropscoreboard objectives add seek_drop minecraft.custom:minecraft.drop
